@@ -13,7 +13,7 @@
 
 Name:          php56-ioncube-loader
 Summary:       Loader for ionCube Encoded Files
-Version:       4.7.3
+Version:       5.0.18
 Release:       1%{?dist}
 License:       Distribuable
 Group:         Development/Languages
